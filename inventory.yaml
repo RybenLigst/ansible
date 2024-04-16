@@ -1,7 +1,0 @@
----
-hosts: all
-  children:
-    ping_servers:
-      - ping1
-    pong_servers:
-      - pong1
